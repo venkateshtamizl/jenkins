@@ -1,0 +1,14 @@
+Started by user [8mha:////4MJ6cAUFU7aNNjhC9RxOc03GrX+XHeSofA2IbngMiEiPAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mJenkins Admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/remote-host
+[SSH] script:
+
+uptime
+
+[SSH] executing...
+ 21:19:38 up 19 days, 11:41,  0 user,  load average: 0.11, 0.08, 0.02
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS
