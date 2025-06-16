@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 17
+Specification-Title: Role-based Authorization Strategy
+Specification-Version: 0.0
+Implementation-Title: Role-based Authorization Strategy
+Implementation-Version: 777.v4fe2599cb_f48
+Group-Id: org.jenkins-ci.plugins
+Artifact-Id: role-strategy
+Short-Name: role-strategy
+Long-Name: Role-based Authorization Strategy
+Url: https://github.com/jenkinsci/role-strategy-plugin
+Compatible-Since-Version: 640
+Plugin-Version: 777.v4fe2599cb_f48
+Hudson-Version: 2.479.3
+Jenkins-Version: 2.479.3
+Plugin-Dependencies: caffeine-api:3.2.0-166.v72a_6d74b_870f,commons-lang
+ 3-api:3.17.0-87.v5cf526e63b_8b_,ionicons-api:88.va_4187cb_eddf1,configu
+ ration-as-code:1963.v24e046127a_3f;resolution:=optional,workflow-step-a
+ pi:700.v6e45cb_a_5a_a_21;resolution:=optional,cloudbees-folder:6.1012.v
+ 79a_86a_1ea_c1f;resolution:=optional
+Plugin-Developers: 
+Plugin-License-Name: MIT License
+Plugin-License-Url: https://opensource.org/licenses/MIT
+Plugin-ScmConnection: scm:git:https://github.com/jenkinsci/role-strategy
+ -plugin.git
+Plugin-ScmTag: 4fe2599cbf48f1bc1469467ff850168893cacbb3
+Plugin-ScmUrl: https://github.com/jenkinsci/role-strategy-plugin
+Implementation-Build: 4fe2599cbf48f1bc1469467ff850168893cacbb3
+
